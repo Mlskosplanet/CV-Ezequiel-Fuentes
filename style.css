@@ -1,0 +1,61 @@
+
+body {
+    background-color: #f5f3f3;
+    color: #0a0a0a;
+  }
+  
+  img {
+    width: 350px;
+    height: 350px;
+    border-radius: 350px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h4 {
+    text-decoration: underline;
+    font-weight: bold;
+  }
+  
+  ul > li {
+    list-style: none;
+    text-decoration: none;
+    border: 1px solid #eaeccc;
+    margin: 10px;
+  }
+  
+  .containerSkill {
+    text-align: center;
+  }
+  
+  .containerSkill > ul > li {
+    list-style: none;
+    text-decoration: none;
+    border: none;
+    margin: 10px;
+  }
+  .container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .containerDescription {
+    text-align: center;
+    border: 1px solid #ff9800;
+  }
+  
+  .containerHobbie > ul > li {
+    list-style: none;
+    border: none;
+  }
+  
+  h1 {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+  } 
+  
+ 
